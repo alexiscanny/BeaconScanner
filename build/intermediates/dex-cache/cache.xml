@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-e976766be48d9792626b3f7085d4654363b40f33.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f538aeb094bd33a88868f5e7284deb4c6cf518ef.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-b473426dc2c67046858eebaa173045f17ca6d8af.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-37e325c7601e735d7bbeb43f05b0e2312cbd41b2.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-32ac01ad0cafa344f85b40b40422b45db021f9a3.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-973fe5065246c7a671887ca57cf8b396295e502b.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-34a5a0d64655cf7f787b7ae8b5a1429ba991f293.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-0c9cc846f6fa6435ecd44f8bce283395eb57a711.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-7d1e9aba23007ae3273c178ecca6fdf4f258a8c4.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-4c597027856555a1a3c58c010693f2d6a23ca241.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-a712e5efd70049b1bc9becb2ec28494e2539e66b.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-25fa3ee96cc31d8f3eba91041c1505a988072919.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-c83f4578584e1f5e3744c6c8e085b0fa0b425310.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-14d5df62b648d70671b0ba4036cb17bbc8b50860.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-f1e221733d559f1a76101a69dc5043544472057a.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d024eb0720124ff1ac7570819687704640f3b05d.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-a7bcf36cb79a689c6f002093a6ef03c95e5be0fd.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-33c46cca4565c071fe5060cfeef7df9994c81549.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-48edd4b5d28ac27936d758ce16cffbfb6417e1c0.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-59c518d16626e4986fb96bb00f3b1bc723f2117c.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-8a8ba2c5330f4bbb598e58729b7f0e24798c0f74.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-2662cf2347752431c9140f6987fceeca8c4d2fc8.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-bbf77e09e4ec37aaecb0e78fa746997106bb5aff.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-c2525186cdd8c86ecfb74557cc58829475b5a54e.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-85480282e0a13c3c07084a68567f01824b7dde35.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/annotations-13.0-094b85ee31b28f729e9ac14fa4d7f49fe517bcf0.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-ba699f339dc0dae1799d267e136cb2ecdda26ecd.jar" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/Alessio/Desktop/ble_samples/ble_scanner/app/build/intermediates/pre-dexed/debug/classes-5004eba74a3fa54d596fa8546e8e2aa979b2712f.jar" />
+    </item>
+
+</items>
